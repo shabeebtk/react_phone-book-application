@@ -1,8 +1,7 @@
-# React + Vite
+# phone book using react
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+screenshots
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![main image](https://imgtr.ee/images/2023/11/04/485473bf8993ac7131797a08639debc6.png)
+  
+![main image](https://imgtr.ee/images/2023/11/04/1086d29ed4aa260b1b302b96de8e1708.png)
